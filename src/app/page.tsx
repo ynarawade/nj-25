@@ -1,10 +1,11 @@
-import ToogleMode from "@/components/ui/ToogleMode";
+import Landing from "@/components/Landing/Landing";
 
 function Home() {
   return (
     <div>
       {" "}
-      <ToogleMode />
+      {/* <ToogleMode /> */}
+      <Landing />
     </div>
   );
 }
